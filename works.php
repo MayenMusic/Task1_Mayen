@@ -25,6 +25,8 @@
             <div class="content" style="font-size:14px; text-align:justify; width:480px;">
             <br>
                 DONE FOR FUN :)
+                <br>Hello World
+                
                 <hr color="black" size="3"/>
                 <div class="thumbnails">
                     <div class="contentImg">
