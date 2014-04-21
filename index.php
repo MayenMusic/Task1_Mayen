@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <title>Mayen HOME</title>
     
-    <link href="style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
     <script language="javascript">
 			var slide = 0;
 			setInterval(function(){
